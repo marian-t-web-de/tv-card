@@ -39,7 +39,7 @@ class TVCardServices extends LitElement {
     static get properties() {
         return {
             _hass: {},
-		    _config: {},
+	    _config: {},
             _apps: {},
             trigger: {},
         };
